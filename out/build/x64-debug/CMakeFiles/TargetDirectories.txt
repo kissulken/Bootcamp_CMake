@@ -1,0 +1,5 @@
+C:/Users/Kissulken/source/repos/Bootcamp_CMake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kissulken/source/repos/Bootcamp_CMake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Kissulken/source/repos/Bootcamp_CMake/out/build/x64-debug/Bootcamp_CMake/CMakeFiles/Bootcamp_CMake.dir
+C:/Users/Kissulken/source/repos/Bootcamp_CMake/out/build/x64-debug/Bootcamp_CMake/CMakeFiles/edit_cache.dir
+C:/Users/Kissulken/source/repos/Bootcamp_CMake/out/build/x64-debug/Bootcamp_CMake/CMakeFiles/rebuild_cache.dir
